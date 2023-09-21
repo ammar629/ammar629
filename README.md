@@ -4,7 +4,7 @@ I'm a passionate Software Engineer with a diverse skill set and a strong backgro
 
 ## 🔧 Tech Stack
 
-- **Languages**: C#, C++, Dart, Python, SQL
+- **Languages and Frameworks**: C#, C++, Dart, Python, SQL, Flutter, Winforms, .NET Framework
 - **Fullstack Development**
 - **Mobile App Development**
 - **Web App Development**
