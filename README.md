@@ -10,6 +10,11 @@ I'm a passionate Software Engineer with a diverse skill set and a strong backgro
 - **Web App Development**
 - **Desktop App Development**
 - **Machine Learning / AI**
+- **REST API**
+- **Software Design**
+- **Software Architecture**
+- **API Integration**
+- **UML**
 
 ## 📫 Get in Touch
 
