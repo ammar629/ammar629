@@ -21,6 +21,7 @@ I'm a passionate Software Engineer with a diverse skill set and a strong backgro
 - GitHub: Feel free to talk to me here
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ammar-ahmed-17635b1b7/)
 - Email: ammarahmed0003@gmail.com
+- My Blog: [Codegitz](https://codegitz.com/)
 
 ## 🌟 Highlights
 
