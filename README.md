@@ -22,6 +22,7 @@ I'm a passionate Software Engineer with a diverse skill set and a strong backgro
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ammar-ahmed-17635b1b7/)
 - Email: ammarahmed0003@gmail.com
 - My Blog: [Codegitz](https://codegitz.com/)
+- My Upwork: [Upwork](https://www.upwork.com/freelancers/~016067f6d571cb3d42)
 
 ## 🌟 Highlights
 
