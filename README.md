@@ -37,9 +37,6 @@ I'm a lifelong learner and always eager to expand my knowledge and skill set. Cu
 
 I'm open to collaborations and new opportunities. Feel free to reach out to me if you'd like to work together or just have a chat about technology, coding, or anything else!
 
-![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammar629&show_icons=true)
-
-
 <!--
 **ammar629/ammar629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
