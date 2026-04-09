@@ -17,7 +17,7 @@ I'm a passionate System Architect & Automation Strategist with a diverse skill s
 ## 🌟 Highlights
 
 - [My Research Paper on Detection of Brain Tumour in 3D MRI](https://ieeexplore.ieee.org/abstract/document/9989020/metrics#metrics)
-- I'm currently developing a closed source erp software client for one my country's most well known pharmacies and very soon the software that I developed with a business partner will be run on every branch of theirs
+- Developed complex ERP systems for 25+ clients
 
 ## 📚 Learning
 
