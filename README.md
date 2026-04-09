@@ -1,20 +1,10 @@
 # Hi there, I'm Ammar 👋
 
-I'm a passionate Software Engineer with a diverse skill set and a strong background in Full-stack development, Mobile app development, Web app development, Desktop app development, and Machine learning/AI. I'm always excited to take on new challenges and contribute to innovative projects.
+I'm a passionate System Architect & Automation Strategist with a diverse skill set and a strong background in Full-stack development with strong focus on AI automation and agentic workflows. I'm always excited to take on new challenges and contribute to innovative projects.
 
 ## 🔧 Tech Stack
-
-- **Languages and Frameworks**: C#, Dart, Python, SQL, Flutter, React.js / Next.js, Node.js / Express.js
-- **Fullstack Development**
-- **Mobile App Development**
-- **Web App Development**
-- **Desktop App Development**
-- **Machine Learning / AI**
-- **REST API**
-- **Software Design**
-- **Software Architecture**
-- **API Integration**
-- **UML**
+- **Languages**: C#, Dart, Python, SQL
+- **Frameworks**: Flutter, React.js / Next.js, Node.js / Express.js, LangGraph
 
 ## 📫 Get in Touch
 
