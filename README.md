@@ -26,11 +26,3 @@ I'm a lifelong learner and always eager to expand my knowledge and skill set. Cu
 ## 💬 Let's Connect
 
 I'm open to collaborations and new opportunities. Feel free to reach out to me if you'd like to work together or just have a chat about technology, coding, or anything else!
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ammar629"
-  width="600"
-  height="300"
-/>
-</a>
